@@ -22,12 +22,10 @@ func create() {
 	}
 }
 ```
----
 
 - I'm in love with `Python`, `PHP`, and `Go` (currently learning on this).
 - I use tools like `git` and `docker` to help me.
 - Want lo learn mobile apps development.
----
 
 - [Instagram](https://www.instagram.com/agung.fhd)
 <!-- [LinkedIn](https://www.linkedin.com/in/agung-prabowo-145199331)-->
